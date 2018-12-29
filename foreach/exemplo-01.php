@@ -1,7 +1,7 @@
 <?php 
 
 $meses = array(
-"Janeiro", "Fevereiro", "MArço", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro" );
+"Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro" );
 
 	foreach ($meses as $index => $mes) {
 		echo $index . "<br>"; 
